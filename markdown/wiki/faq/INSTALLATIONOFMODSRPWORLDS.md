@@ -62,7 +62,8 @@ The world cannot be zipped inside the saves folder.
   world (directory) → level.dat
 
 ```
-.minecraft
+.minecraft![Uploading Screenshot_2025-10-17-17-52-26-759_com.google.android.youtube.jpg…]()
+
 │
 └─── saves
      └─── world (folder)
